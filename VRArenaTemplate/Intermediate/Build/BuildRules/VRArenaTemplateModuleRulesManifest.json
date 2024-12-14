@@ -1,0 +1,19 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRAnchors\\OculusXRAnchors.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXREditor\\OculusXREditor.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXREyeTracker\\OculusXREyeTracker.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRHMD\\OculusXRHMD.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRInput\\OculusXRInput.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRMR\\OculusXRMR.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRMovement\\OculusXRMovement.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXROpenXRHMD\\OculusXROpenXRHMD.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRPassthrough\\OculusXRPassthrough.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRProjectSetupTool\\OculusXRProjectSetupTool.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRScene\\OculusXRScene.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\Thirdparty\\OVRPlugin\\OVRPluginXR.build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

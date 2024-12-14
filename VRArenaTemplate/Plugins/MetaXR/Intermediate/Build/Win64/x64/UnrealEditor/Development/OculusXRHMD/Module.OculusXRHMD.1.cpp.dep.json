@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\module.oculusxrhmd.1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\definitions.oculusxrhmd.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxreventcomponent.gen.cpp",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxreventcomponent.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxreventcomponent.generated.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrfunctionlibrary.gen.cpp",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrfunctionlibrary.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrhmdtypes.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdtypes.generated.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\ioculusxrhmdmodule.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\headmounteddisplay\\public\\iheadmounteddisplaymodule.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\headmounteddisplaytypes.generated.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrfunctionlibrary.generated.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmd.init.gen.cpp",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdruntimesettings.gen.cpp",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrhmdruntimesettings.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdruntimesettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

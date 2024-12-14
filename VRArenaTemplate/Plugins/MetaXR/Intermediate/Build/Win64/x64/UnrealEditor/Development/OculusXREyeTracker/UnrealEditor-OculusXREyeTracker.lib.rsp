@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXREyeTracker.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREyeTracker\Module.OculusXREyeTracker.cpp.obj"
+"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREyeTracker\Default.rc2.res"
+/OUT:"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREyeTracker\UnrealEditor-OculusXREyeTracker.lib"
