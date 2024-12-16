@@ -13,7 +13,12 @@
 		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\OculusXRScene\\OculusXRScene.Build.cs",
 		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\MetaXR\\Source\\Thirdparty\\OVRPlugin\\OVRPluginXR.build.cs",
 		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
-		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs"
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Intermediate\\Source\\VRArenaTemplate.Build.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Intermediate\\Source\\VRArenaTemplate.Target.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Intermediate\\Source\\VRArenaTemplateClient.Target.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Intermediate\\Source\\VRArenaTemplateEditor.Target.cs",
+		"C:\\Users\\nick\\Documents\\GitHub\\VRArenaTemplate\\VRArenaTemplate\\Intermediate\\Source\\VRArenaTemplateServer.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
