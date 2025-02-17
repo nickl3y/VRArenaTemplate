@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-OculusXRHMD.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Intermediate\Build\Win64\x64\VRArenaTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h.obj"
 "C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\Module.OculusXRHMD.1.cpp.obj"
 "C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\Module.OculusXRHMD.2.cpp.obj"
 "C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\Module.OculusXRHMD.3.cpp.obj"

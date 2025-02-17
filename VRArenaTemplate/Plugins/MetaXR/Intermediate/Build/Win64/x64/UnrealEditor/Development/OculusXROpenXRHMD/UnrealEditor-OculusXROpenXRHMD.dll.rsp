@@ -39,7 +39,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NATVIS:"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\RenderCore.natvis"
-"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Intermediate\Build\Win64\x64\VRArenaTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h.obj"
 "C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp.obj"
 "C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Default.rc2.res"
 "ThirdParty\Windows\DirectX\Lib\x64\dxgi.lib"

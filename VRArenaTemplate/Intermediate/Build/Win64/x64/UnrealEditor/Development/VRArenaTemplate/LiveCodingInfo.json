@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRArenaTemplate.cpp.obj": [
+			"VRArenaTemplate.cpp.obj"
+		]
+	}
+}

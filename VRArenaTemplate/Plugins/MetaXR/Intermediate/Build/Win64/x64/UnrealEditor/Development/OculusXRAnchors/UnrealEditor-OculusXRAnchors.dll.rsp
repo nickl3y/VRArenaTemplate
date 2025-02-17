@@ -34,7 +34,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Intermediate\Build\Win64\x64\VRArenaTemplateEditor\Development\Engine\SharedPCH.Engine.Cpp17.h.obj"
 "C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRAnchors\Module.OculusXRAnchors.cpp.obj"
 "C:\Users\nick\Documents\GitHub\VRArenaTemplate\VRArenaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRAnchors\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"

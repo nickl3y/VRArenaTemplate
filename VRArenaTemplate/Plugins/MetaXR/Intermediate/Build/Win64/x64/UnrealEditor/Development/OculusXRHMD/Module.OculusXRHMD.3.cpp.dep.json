@@ -3,7 +3,7 @@
     "Data": {
         "Source": "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\module.oculusxrhmd.3.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\intermediate\\build\\win64\\x64\\vrarenatemplateeditor\\development\\unrealed\\sharedpch.unrealed.cpp17.h.pch",
         "Includes": [
             "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\definitions.oculusxrhmd.h",
             "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\private\\oculusxrhmd_consolecommands.cpp",

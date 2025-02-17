@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrarenatemplate\\module.vrarenatemplate.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\intermediate\\build\\win64\\x64\\vrarenatemplateeditor\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrarenatemplate\\definitions.vrarenatemplate.h",
+            "c:\\users\\nick\\documents\\github\\vrarenatemplate\\vrarenatemplate\\intermediate\\source\\vrarenatemplate.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
